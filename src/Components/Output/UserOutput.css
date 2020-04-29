@@ -1,0 +1,15 @@
+.UserOutput {
+    width: 80%;
+    margin: 0 auto 30px;
+    box-shadow: 0 2px 3px #4a4a42;
+    padding: 50px;
+}
+
+.congrats-text {
+    font-size: 20px;
+    margin: 0 0 50px;
+}
+
+.next-steps {
+    font-size: 10px;
+}

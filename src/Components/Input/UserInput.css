@@ -1,0 +1,12 @@
+.UserInput {
+    margin: 0 auto 50px;
+    width: 60%;
+}
+
+.UserInput .input-user {
+    width: 100%;
+    padding: 15px;
+    font-size: inherit;
+    border-radius: 5px;
+    border: 1px solid;
+}
